@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="CopyLibraryToGithubEnvironment/CopyLibraryToGithubEnvironment.csproj" />
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+    <File Path="run.ps1" />
+    <File Path="run.config.json.template" />
+    <File Path=".gitignore" />
+  </Folder>
+</Solution>
+

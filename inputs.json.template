@@ -1,0 +1,5 @@
+{
+  "Library": "MyLibrary",
+  "Repo": "my-org/my-repo",
+  "Environment": "Production"
+}

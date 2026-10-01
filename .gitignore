@@ -1,0 +1,24 @@
+## .NET build artifacts
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+
+## Visual Studio
+.vs/
+
+## Rider / VS Code
+.idea/
+.vscode/
+
+## Local, machine-specific configuration (contains org-specific values)
+run.config.json
+inputs.json
+
+## Run logs (contain org-specific values)
+*.log
+
+## NuGet
+*.nupkg
+**/packages/*
+!**/packages/build/
